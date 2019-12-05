@@ -1,0 +1,51 @@
+body
+	{
+		background-image:url(../images/curtains-001561-lime-green.jpg);
+	}
+input
+	{
+		background:linear-gradient(white,yellow);
+	}
+input[type=text] 
+{
+    border: 2px solid green;
+    border-radius: 4px;
+}
+p 
+	{
+		text-align:center;
+		color:BLACK;
+	}
+form
+{
+	color: purple;
+}
+textarea {
+    
+    padding: 12px 20px;   
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background:linear-gradient(white,yellow);
+    resize: none;
+}
+ul
+{
+	text-align:center;
+	font-style:italic;
+}
+input[type=submit] {
+    
+    border: 6px solid transparent;
+    color: purple;
+}
+table
+	{
+		border: 1px solid black;
+		padding: 10px;
+		
+	}
+td
+	{
+		 text-align:center;
+		 color:black;
+	}
